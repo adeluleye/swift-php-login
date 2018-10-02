@@ -12,6 +12,9 @@
 		E9D7427B21641C5E0077410A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9D7427921641C5E0077410A /* Main.storyboard */; };
 		E9D7427D21641C5F0077410A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9D7427C21641C5F0077410A /* Assets.xcassets */; };
 		E9D7428021641C5F0077410A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9D7427E21641C5F0077410A /* LaunchScreen.storyboard */; };
+		E9D7428A216429D90077410A /* Hands.png in Resources */ = {isa = PBXBuildFile; fileRef = E9D74287216429D90077410A /* Hands.png */; };
+		E9D7428B216429D90077410A /* Cover.png in Resources */ = {isa = PBXBuildFile; fileRef = E9D74288216429D90077410A /* Cover.png */; };
+		E9D7428C216429D90077410A /* WhiteIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = E9D74289216429D90077410A /* WhiteIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		E9D7427C21641C5F0077410A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9D7427F21641C5F0077410A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9D7428121641C5F0077410A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9D74287216429D90077410A /* Hands.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hands.png; sourceTree = "<group>"; };
+		E9D74288216429D90077410A /* Cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cover.png; sourceTree = "<group>"; };
+		E9D74289216429D90077410A /* WhiteIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WhiteIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		E9D7427421641C5E0077410A /* SocialApp */ = {
 			isa = PBXGroup;
 			children = (
+				E9D74288216429D90077410A /* Cover.png */,
+				E9D74287216429D90077410A /* Hands.png */,
+				E9D74289216429D90077410A /* WhiteIcon.png */,
 				E9D7427521641C5E0077410A /* AppDelegate.swift */,
 				E9D7427721641C5E0077410A /* ViewController.swift */,
 				E9D7427921641C5E0077410A /* Main.storyboard */,
@@ -124,7 +133,10 @@
 			files = (
 				E9D7428021641C5F0077410A /* LaunchScreen.storyboard in Resources */,
 				E9D7427D21641C5F0077410A /* Assets.xcassets in Resources */,
+				E9D7428A216429D90077410A /* Hands.png in Resources */,
 				E9D7427B21641C5E0077410A /* Main.storyboard in Resources */,
+				E9D7428C216429D90077410A /* WhiteIcon.png in Resources */,
+				E9D7428B216429D90077410A /* Cover.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
